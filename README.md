@@ -62,7 +62,7 @@ Also, a big thanks to the **open-source AI security community** whose tools and 
 
 Feel free to explore, fork, or reach out!
 
-📬 [Connect with me on LinkedIn](linkedin.com/in/sohan-hanabe-mallikarjun-2032b025a)  
+📬 [Connect with me on LinkedIn](https://www.linkedin.com/in/sohan-hanabe-mallikarjun-2032b025a/)  
 🔒 #AIsecurity #Cybersecurity #RedTeaming #AdversarialAI #Internship
 
 ---
